@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **XatioProje**
 
-- 🌱 I’m currently learning **C#, Unity, Frontend**
+- 🌱 I’m currently learning **C#, Unity, Java, Python, .NET, HTML & CSS**
 
 - 📫 How to reach me **atamangazozcu@gmail.com**
 

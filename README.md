@@ -17,7 +17,7 @@
 <h3 align="left"> Stock Management System </h3>
 <p>This project was made with my good friend as our midterm project where we decided to create a management system. In this management system, the user can access the stocks and see which products are available or not. The user can search my name or by category such as Laptops, TV and more. Both admin and user panels were created. Java was used as the language and IntelliJ as the IDE. As for the backend, MySQL XAMPP and PhP was used.  </p>
 
-<img src="Ekran görüntüsü 2025-04-22 143520.png" alt="Knight Game Screenshot" width="600"/>
+<img src="Ekran görüntüsü 2025-04-22 143653.png" alt="Stock Management Screenshot" width="600"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
